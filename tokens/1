@@ -2,7 +2,7 @@
     "id": 1,
     "name": "Neon Core Chest",
     "description": "A high-tech loot chest pulsing with neon energy. Unlock it to reveal rare cyberpunk gear, weapon mods, and digital upgrades.",
-    "image": "ipfs://<IPFS_HASH_FOR_IMAGE>",
+    "image": "https://ydltom.github.io/chrome-chest-metadata/tokens/neoncorechest.png",
     "animation_url": "ipfs://<OPTIONAL_ANIMATION_OR_VIDEO>",
     "external_url": "https://yourgame.example.com/loot/neon-core",
     "token_id": "1",

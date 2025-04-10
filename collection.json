@@ -1,6 +1,5 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Neon Core Chests",
+    "description": "A high-tech loot crate pulsing with neon energy. Unlock it to reveal rare cyberpunk gear, weapon mods, and digital upgrades.",
+    "image": "https://ydltom.github.io/chrome-chest-metadata/tokens/neoncorechest.png"
 }
